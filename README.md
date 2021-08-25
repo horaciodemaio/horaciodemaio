@@ -10,7 +10,7 @@ Full Stack Developer.
 &nbsp;&nbsp;
 
 
-## :star: Languages and Tools:
+## :star: Lenguajes y herramientas:
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -31,10 +31,10 @@ Full Stack Developer.
 
 &nbsp;
 
-## :pushpin: My proyects
+## :pushpin: Mis proyectos
 
 
-<h3>Ecommerce WineStore in progress...</h3>
+<h3>Ecommerce WineStore en progreso...</h3>
 <p>
 //  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
 //  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
@@ -42,7 +42,7 @@ Full Stack Developer.
 </p> 
 &nbsp;
 
-## :paperclip: How to reach me:
+## :paperclip: Contacto:
 <span >
 <a href="https://www.linkedin.com/in/horacio-demaio/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
 <a href="mailto:horaciodemaio33@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
