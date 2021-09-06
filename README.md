@@ -31,16 +31,6 @@ Full Stack Developer.
 
 &nbsp;
 
-## :pushpin: Mis proyectos
-
-
-<h3>Ecommerce WineStore en progreso...</h3>
-<p>
-//  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/tabla.jpg"></a>
-//  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/nuevoprod.png"></a>
-//  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/pedidotopia/imagen.png"></a>
-</p> 
-&nbsp;
 
 ## :paperclip: Contacto:
 <span >
